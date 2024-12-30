@@ -96,13 +96,7 @@ A powerful and intuitive **Task Management System** built using **Python**, **Tk
 
 ```
 Task-Management-System/
-|— main.py            # Entry point of the application
-|— database.py        # Handles database connections and queries
-|— gui.py             # Contains Tkinter GUI logic
-|— tasks.db          # SQLite database file
-|— initialize_db.sql  # SQL script to initialize the database
-|— README.md          # Project documentation
-|— requirements.txt   # Dependencies
+|— task_manager_gui
 ```
 
 ---
